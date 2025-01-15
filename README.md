@@ -11,3 +11,7 @@ Objective The main goals of this project are:
 Project Overview
 
 Data Source: Utilized MS Excel for data inputs. • Data Transformations: Employed various transformations such as merge, remove, trim, and column data type changes in Power Query Editor to ensure data consistency. • Data Model: Designed and implemented a data model establishing relationships between different tables including bed details, staff details, department, and dataset tables. • Visualizations: Developed KPIs using card visuals and an array of interactive visuals including bar charts, line charts, maps, and tables. • Customization: Utilized custom visuals like rotating card, scroller, etc., for enhanced user experience. • Functionality: Implemented drill-down and drill-through capabilities to provide detailed patient views, along with filters, slicers, and button navigators for ease of use.
+
+Benefits This project offers:
+
+• Centralized Information: Provides a centralized view for monitoring hospital activities. • Data-Driven Decision Making: Assists management teams in making informed, data-driven decisions.
